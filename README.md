@@ -1,9 +1,9 @@
 # Shop - MERN
-```bash
-React/Redux
-node.js/express
-mongoDB
-```
+
+### React
+### Redux
+### node.js/express
+### mongoDB
 
 ## For both the backend and frontend to run concurrently, in the root folder run:
 
