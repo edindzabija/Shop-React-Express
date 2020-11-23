@@ -4,13 +4,16 @@ main {
 h1 {
   font-size: 1.8rem;
   padding: 1rem 0;
+  text-transform: uppercase;
 }
 h2 {
   font-size: 1.4rem;
   padding: 0.5rem 0;
+  text-transform: uppercase;
 }
 h3 {
   padding: 1rem 0;
+  text-transform: uppercase;
 }
 .rating span {
   margin: 0.1rem;
