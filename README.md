@@ -31,3 +31,9 @@ npm run client
 ```bash
 npm run data:import
 ```
+
+## Delete All Data from DB
+
+```bash
+npm run data:destroy
+```
